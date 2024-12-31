@@ -1,0 +1,123 @@
+ID,FCP,Livrable,Savoirs Théoriques,Outils à Maîtriser,Chemin Critique,Complexité,Temps alloué (jours)
+13,FCP 5,Recueillir les besoins du client,Identification des besoins clients en stratégie marketing à travers questionnaires et interviews.,"Trello, Asana pour gestion de questionnaires clients.",Oui,simple,2
+14,FCP 5,Définition des valeurs du client,Définition des valeurs fondamentales de l'entreprise pour guider la communication visuelle.,"Outils de branding collaboratif (Notion, Figma).",Oui,simple,2
+15,FCP 5,Mise en place d'un storytelling,Utilisation de techniques narratives pour créer un storytelling engageant.,Storytelling templates et plateformes collaboratives.,Oui,Moyen,3
+22,"FCP 2, FCP 5, FCP 7, FCP 8",Cahier des charges du projet,"Connaissance des méthodologies pour structurer un projet numérique.
+Planifier et respecter les étapes de création (brief, conception, validation).","Trello, Jira pour suivi des projets.",Oui,complexe,5
+20,FCP 6,Veille concurrentielle pour le client,"Utilisation des outils de veille pour analyser les tendances du marché et des concurrents.
+Techniques de recherche d’informations fiables (moteurs de recherche, forums, réseaux sociaux professionnels).
+Méthodes de curation de contenu (agrégation et sélection).
+Analyse des tendances du secteur (design graphique, UI/UX, technologies web).
+Automatiser la veille avec des outils dédiés.
+Identifier des tendances pertinentes et adapter les pratiques.","Feedly, RSS aggregators pour automatiser la veille.",Oui,complexe,5
+21,FCP 6,Analyse de la veille concurrentielle pour le client,"Synthèse des résultats de veille pour guider les décisions stratégiques.
+Outils et techniques pour formaliser et transmettre les résultats de la veille.",Tableaux de synthèse et outils comme Notion.,Oui,Moyen,3
+3,FCP 2,Réalisation des fiches personae,Connaissance des méthodologies UX et UI pour créer des fiches personae représentatives du public cible.,"Figma, Adobe XD pour conception de personae et prototypage.",Oui,Moyen,3
+4,FCP 2,Réalisation du parcours navigateur des personae,"Différence entre UI et UX.
+Identification des parcours utilisateurs, structuration de navigation claire et intuitive.
+Principes d’ergonomie (navigation intuitive, organisation visuelle).","Overflow, Userflows pour cartographier les parcours utilisateur.",Oui,complexe,5
+16,FCP 5,Élaboration de la stratégie marketing pour le client,"Conception de stratégies marketing multicanal en ligne, alignées avec les objectifs du client.
+Bases de l’inbound marketing (attirer, convertir, fidéliser).
+Parcours client et conception d’entonnoirs de conversion.
+Optimisation SEO : choix des mots-clés, rédaction optimisée.
+SEO technique : balises meta, structure de site, temps de chargement.","Google Analytics, SEMrush pour analyse marketing.",oui,Moyen,3
+5,FCP 2,Réalisation d’un zoning,"Définir les zones fonctionnelles et hiérarchiques des interfaces utilisateur.
+Structuration et hiérarchisation de l’information (titres, sous-titres, listes).
+Techniques de zoning et wireframing.","Wireframe tools comme Balsamiq, Sketch.",Oui,simple,2
+6,FCP 2,Réalisation d'un wireframe du site,"Création de wireframes interactifs pour différentes résolutions (mobile, desktop).","Sketch, Figma pour conception interactive multi-résolution.",Oui,simple,2
+7,FCP 2,Réalisation d'un prototypage (maquette dynamique) du site,"Tendances graphiques du web (flat design, minimalisme).
+Prototypage interactif en intégrant transitions et éléments dynamiques pour validation utilisateur.
+Règles typographiques et gestion du texte à l’écran.
+Normes d’accessibilité (RGAA, WAI).
+Standards graphiques pour les interfaces (couleurs contrastées, tailles de texte adaptées).
+RGPD (protection des données personnelles).
+Droits d’auteur liés aux médias utilisés.
+Sélectionner des typographies et palettes chromatiques optimisées pour l’écran.
+Organiser les éléments visuels en respectant les délais.
+Collaborer avec des développeurs pour assurer la faisabilité technique.
+Présenter et défendre ses choix graphiques face aux parties prenantes.
+Prendre en compte les retours utilisateurs pour optimiser l’interface.
+Techniques de responsive design (media queries, grilles CSS).","Adobe XD, InVision pour validation collaborative des maquettes.",Oui,trés Complexe,12
+23,FCP 8,Intégration du site sur un CMS,"Connaissances approfondies des CMS (WordPress, Prestashop), gestion des utilisateurs et modules.
+Connaissance des principaux CMS : Webflow, WordPress, Joomla!, Drupal, Prestashop.
+Organisation d’un CMS : gestion des utilisateurs, rôles, médias, et permaliens.
+Différences entre CMS généralistes (ex. WordPress) et spécialisés (ex. Prestashop).
+Fonctionnement des thèmes et plugins : installation, configuration, personnalisation.
+HTML : structuration des pages.
+CSS : personnalisation des thèmes.
+PHP : gestion des fonctionnalités dynamiques.
+MySQL : gestion des bases de données.
+Installation d’un CMS sur un serveur (Apache, Nginx).
+Utilisation d’un logiciel FTP (ex. FileZilla).
+Principes de sécurité : mots de passe, HTTPS, permissions de fichiers.
+Structuration et clarté de l’interface utilisateur.
+Navigation intuitive et responsive.","WordPress, Prestashop pour gestion et personnalisation de CMS.",Oui,trés Complexe,12
+24,FCP 8,Personnalisation du site du client,"Personnalisation avancée des thèmes, extensions et contenus en CMS.
+HTML : structuration des pages web.
+Intégrer des maquettes statiques en HTML/CSS.
+CSS : personnalisation et mise en forme des éléments visuels.
+Appliquer des animations CSS et transitions pour améliorer l’expérience utilisateur.
+Tester les pages sur différents navigateurs et périphériques.
+Configurer les fichiers pour le SEO (balises meta, balises structurées).
+JavaScript : ajout de dynamiques et d’interactivité.
+Standards du W3C.
+Techniques de responsive design (media queries, grilles CSS).
+Règles d’accessibilité (RGAA, WAI).
+Structure sémantique du code (balises h1, h2, alt, etc.).
+Optimisation des performances (temps de chargement, minimisation des fichiers).
+Gestion des fichiers (robots.txt, sitemap).
+Conformité RGPD pour le suivi des utilisateurs (cookies, analytics).","Plugins comme Elementor, WooCommerce pour personnalisation CMS.",Oui,trés  Complexe,12
+25,FCP 8,Formation du client à l'utilisation du CMS,Techniques de formation pour rendre le client autonome sur le CMS.,Guides utilisateurs et outils de présentation.,Oui,moyen,3
+1,FCP 1,Définition d'un moodboard,"Création d'ambiances graphiques, choix des couleurs et typographies adaptées au contexte.
+Symbolique des formes et des couleurs.","Moodboard tools comme Canva, Miro pour la création de palettes graphiques.",Non,Simple,2
+8,FCP 3,Réalisation d'un storyboard d'une courte vidéo promotionnelle,"Règles de cadrage et mouvements, synchronisation audio-visuelle, choix des éléments graphiques.
+Droits d’auteur pour les médias intégrés (images, musiques).
+Règles de publication sur des plateformes publiques.
+Choix des visuels adaptés au message et au public cible.
+Respecter les étapes de production : storyboard, animation, rendu.
+Présenter les animations aux clients pour validation.
+Prendre en compte les retours pour ajuster les animations.","Adobe Animate, After Effects pour animation et effets graphiques.",Non,moyen,3
+0,FCP 1,Réalisation d'un logo,"Principes fondamentaux de composition graphique, symbolique des formes et couleurs, respect des chartes graphiques.
+Les principes de la composition graphique (nombre d’or, règle des tiers, cadrage).
+Modes colorimétriques (CMJN, RVB).
+Réaliser des illustrations vectorielles.
+Intégrer des éléments graphiques dans des maquettes numériques.
+Organiser les fichiers et formats pour faciliter leur réutilisation.
+Respecter les délais fixés dans le cahier des charges.
+Comprendre les besoins exprimés par les clients ou collaborateurs.
+Argumenter les choix graphiques face aux parties prenantes.
+Travailler en équipe avec des designers, développeurs ou chefs de projet.","Adobe Illustrator, Photoshop pour création vectorielle et traitement d'images.",Non,trés complexe,12
+2,FCP 1,"Optimisation des images matricielles pour le web, le mobile et les réseaux sociaux","Techniques de compression et optimisation d’images pour le web, mobile, réseaux sociaux, et impression.
+Appliquer des retouches précises (sélections, corrections colorimétriques, photomontages).
+Formats d’enregistrement d’images (JPEG, PNG, SVG).
+Techniques de visualisation de données (graphiques, infographies).
+Résolution et tailles des fichiers.
+Techniques de retouche, recadrage, et photomontage.
+Droits d’auteur et droit à l’image.
+Utilisation légale des images et ressources numériques.
+Créer des supports visuels adaptés à différents canaux (web, impression, multimédia).","TinyPNG, ShortPixel pour compression des médias.",Non,moyen,3
+11,FCP 4,Réalisation d'un support de communication imprimé (flyer),"Mise en page professionnelle pour supports imprimés en respectant les règles typographiques.
+Principes fondamentaux de la mise en page (grilles, alignements, marges).
+Règles typographiques et orthographiques.
+Modes colorimétriques (CMJN pour l’impression, RVB pour le web).
+Résolution adaptée (72 dpi pour écran, 300 dpi pour impression).
+Formats PDF avec fonds perdus et traits de coupe.
+Organiser les fichiers sources et exports pour des modifications futures.",Adobe InDesign pour mise en page professionnelle.,Non,complexe,5
+9,FCP 3,Réalisation des rushs de la vidéo promotionnelle,"Organisation des séquences vidéo en plans, application d'effets visuels et transitions.
+Règles de cadrage, rythme, échelle des plans et mouvement.
+Spécificités des plateformes (web, mobile, affichage dynamique).","Adobe Premiere, Final Cut Pro pour montage et optimisation vidéo.",Non,moyen,3
+12,"FCP 1, FCP2, FCP 4",Réalisation de la charte graphique du client,Élaboration d'une charte graphique cohérente avec les objectifs et valeurs du client.,"Illustrator, InDesign pour créer et documenter les éléments graphiques.",Non,moyen,3
+10,FCP 3,Montage de la vidéo promotionnelle,"Finalisation de vidéos, exportation dans des formats adaptés aux supports et plateformes.
+Techniques fondamentales : compression/étirement, anticipation, exagération.
+Gestion de la synchronisation audio-visuelle.
+Formats vidéo et animations : MP4, GIF, SVG.
+Techniques de compression pour l’optimisation des animations.
+Intégrer des visuels, textes, et sons pour créer une animation cohérente.
+Appliquer des transitions et effets pour renforcer l’impact visuel.","Final Cut Pro, iMovie pour export et optimisation des vidéos.",Non,Complexe,5
+17,FCP 5,Lignes éditoriales du client blog et réseaux sociaux,"Rédaction optimisée pour le web, respect des bonnes pratiques éditoriales.","Hootsuite, Buffer pour planification des réseaux sociaux.",Non,moyen,3
+18,FCP 5,Créations des newsletters,Création et envoi de newsletters respectant les règles légales et UX design.,"Mailchimp, Sendinblue pour campagnes d’emailing.",Non,Simple,2
+19,FCP 5,Calendrier éditorial blog et réseaux sociaux du client,Planification des publications pour les réseaux sociaux et les blogs selon les cibles.,"Notion, Google Sheets pour organiser et planifier les contenus.",Non,moyen,3
+28,FCP 9,Hébergement et publication du site du client,"Principes d'optimisation : SEO, performances (temps de chargement, compression), ergonomie et accessibilité (RGAA). Analyse : outils d’analyse de performance (Lighthouse), suivi des audiences (Google Analytics), conformité W3C. Technologies : HTML, CSS, JavaScript, PHP, gestion des médias (compression, lazy loading), paramètres serveur (mise en cache, GZIP).
+Techniques de publication, respect des standards web, optimisation des performances.","Lighthouse, GTmetrix, Google Analytics, Screaming Frog, WP Rocket, TinyPNG, ShortPixel, Yoast SEO, Rank Math., Git, GitHub",oui,Complexe,5
+29,FCP 9,Rapport SEO du site du client,"Législation et bonnes pratiques : conformité RGPD, sécurité des sites (HTTPS, protection des fichiers sensibles). Réalisation d’audits SEO et performance.
+Réalisation d'audits SEO, propositions d'améliorations pour le référencement naturel.","Langages : HTML, CSS, JavaScript, PHP. Frameworks : Tailwind CSS, Bootstrap. Serveurs de test : WAMP, XAMPP. Outils de versioning : Git, GitHub., Git, GitHub",oui,moyen,3
